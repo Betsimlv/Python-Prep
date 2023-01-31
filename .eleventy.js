@@ -17,7 +17,7 @@ const mdOptions = {
 
 const mdAnchorOpts = {
   permalink: true,
-  permalinkClass: 'anchor-link',
+  permalinkClass: 'ancho-link',
   permalinkSymbol: '',
   level: [1, 2, 3, 4],
 }
